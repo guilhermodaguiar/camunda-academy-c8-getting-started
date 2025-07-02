@@ -160,3 +160,4 @@ The generation is embedded in the Maven build and can be triggered by running `m
 
 The generated element template can be found
 in [element-templates/template-connector.json](./element-templates/template-connector-message-start-event.json).
+
